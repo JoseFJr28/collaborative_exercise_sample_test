@@ -19,5 +19,8 @@ Mo's favorite color is blue #I did a thing
 
 John's favorite color is red #I did a thing
 
+Melissa will go next.
+Melissa's favorite colors are red and pink #I did a thing
+
 """
 
